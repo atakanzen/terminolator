@@ -1,4 +1,4 @@
-# Terminolator
+# ![Terminolator](https://github.com/ataknz/terminolator/blob/master/assets/terminolator%20(1).png)
 
 Are you tired of the cumbersome process of creating a terminology with excel? Fear no more, this tool will make things much easier for you.
 

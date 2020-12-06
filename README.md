@@ -27,7 +27,7 @@ Are you tired of the cumbersome process of creating a terminology with excel? Fe
   `python3 --version`
 
 **STEPS:**
-* You can either clone the project or download it as a **zipfile**.
+* You can either clone the project or download it as a [**zipfile**](https://github.com/ataknz/terminolator/archive/master.zip).
 * Open your command-line, and go to the directory where you download the project.
     ```
     cd Desktop/terminolator
